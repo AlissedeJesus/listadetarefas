@@ -1,0 +1,99 @@
+body{
+background-color: rgb(167, 234, 229);
+height: 90vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+
+* {
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Poppins", sans-serif;
+
+
+
+
+
+
+}
+
+
+
+
+button{
+background-color: rgba(220, 102, 125, 0.487);
+text-align: center;
+
+
+}
+
+
+
+
+.container{
+background-color: rgb(170, 209, 214);
+justify-content: center;
+padding: 20%;
+
+
+}
+input{
+    background-color: rgb(208, 155, 202);
+    text-align: center;
+    margin: 1px;
+    border: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+div h1 {
+color: rgb(9, 9, 13);
+text-align: center;
+align-items: center;
+
+}
+
+
+.container {
+text-align: center;
+border: 1px;
+min-width: 20px;
+
+
+
+
+}
+
+body h1 {
+    margin: 1px;
+
+
+    
+}
+
+
+.task-item {
+display:flex;
+justify-content: center;
+
+
+}
+.delete{
+text-align: center;
+
+
+}
